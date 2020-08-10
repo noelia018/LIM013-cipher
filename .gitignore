@@ -1,1 +1,5 @@
 node_modules
+coverage
+.package-lock.json
+coverage/
+.package-lock.json/
