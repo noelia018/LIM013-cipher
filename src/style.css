@@ -1,1 +1,36 @@
 
+form{
+    text-align: center;
+    color: black;
+}
+
+button[type=text] {
+    padding: 30px 30px;
+  border: 8px solid #b3c0b3;
+  font-size: 25px;
+  border-radius: 30px;
+    }
+
+p{
+    text-align: center;
+    font-family:"MS UI Gothic";
+    font-size: 15px;
+    color: rgb(66, 65, 65);
+
+} 
+
+button[type=button] {
+    padding:10px 20px;
+    box-sizing: border-box;
+    font-size: 20px;
+    color: rgba(255, 123, 99, 0.836);
+    background-color: rgba(73, 70, 66, 0.911);
+    border: 5px solid rgba(165, 163, 161, 0.952);
+    border-radius: 15px;
+  }
+
+ 
+
+  
+
+
